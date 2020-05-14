@@ -1,8 +1,12 @@
 class Bank
 {
+void withdraw()
+{
+bal=bal-amt;
+}
 void deposite()
 {
-bal=bal=amt;
+bal=bal+amt
 }
 }
 void ADDITION()
