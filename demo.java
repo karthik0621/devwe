@@ -1,3 +1,10 @@
+class Bank
+{
+void deposite()
+{
+bal=bal=amt;
+}
+}
 void ADDITION()
 {
 C=A+B
